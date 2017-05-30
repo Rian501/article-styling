@@ -1,0 +1,65 @@
+#blogday1 {
+  background-color: orange;
+  font-family: Verdana, Arial, sans-serif;
+  color: rbg(200, 221, 230);
+  font-size: 1.2em;
+  line-height: 1.3em;
+  padding: 12% 0 0 0;
+  border: 3px solid green;
+	border-radius: 1%;
+}
+
+#blogday2 {
+  background-color: blue;
+  font-family: 'Times New Roman', Times, serif;
+  color: lightgreen;
+  font-size: 1.2rem;
+  line-height: 1em;
+  padding: 120px;
+  border: 5px ridge orange;
+	border-radius: 50%;
+}
+
+#blogday3 {
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+  color: lightgrey;
+  font-size: .7em;
+  line-height: 1.8em;
+  padding: 0 20px 1em 120px;
+  border: 1px dashed grey;
+	border-radius: 12px;
+}
+
+#blogday4 {
+  background-color: purple;
+  font-family: Helvetica, Arial, sans-serif;
+  color: white;
+  font-size: 12px;
+  line-height: .8em;
+  padding: 300px 20px 1em 120px;
+  border: 7px dotted #206fab;
+	border-radius: 35em;
+}
+
+#blogday5 {
+  background-color: green;
+  font-family: Georgia, Times, serif;
+  color: #000;
+  font-size: 120%;
+  line-height: 1.4em;
+  padding: 10px 20px 1em 0px;
+  border: 1px double black;
+	border-radius: 0.01em;
+}
+
+.weeklyreflection {
+	background-color: #195729;
+	font-family: 'Open Sans', sans-serif;
+	color: #ccc;
+	font-size: 30px;
+	line-height: 112%;
+	padding: 10px 20px 1em 90px;
+	border: 4px groove darkblue;
+	border-radius: .5em;
+}
